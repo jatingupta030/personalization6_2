@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Personalization Demo Package</comment>
+<entry key="createdBy">ttnd</entry>
+<entry key="name">personalizationdemo-content</entry>
+<entry key="created">2017-06-20T12:28:13.749+0530</entry>
+<entry key="groupId">com.ttnd</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">TTN</entry>
+<entry key="description">Maven Multimodule project for Personalization Demo.</entry>
+<entry key="artifactId">personalizationdemo-content</entry>
+<entry key="path">/etc/packages/TTN/personalizationdemo-content.zip</entry>
+</properties>
